@@ -1,0 +1,1 @@
+{"measurement_time":"2018-12-09 10:00:08","measurements":[{"pressure":988.4,"sensor_id":"bedroom","temperature":20.47,"humidity":35},{"pressure":989.11,"sensor_id":"living_room","temperature":19.67,"humidity":37}],"controller_id":"raspberrypi"}
